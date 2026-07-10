@@ -1,0 +1,35 @@
+# Data
+data/
+results/
+docs/
+
+# Figures
+*.png
+*.jpg
+*.pdf
+*.svg
+
+# Tables / outputs
+*.csv
+*.tsv
+*.txt
+*.xlsx
+
+# Reports
+*.md
+
+# Python
+__pycache__/
+*.py[cod]
+.env
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
